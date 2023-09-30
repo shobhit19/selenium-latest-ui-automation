@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager">
+    <configuration name="E:/project/selenium-latest-ui-automation/selenium-latest-ui-automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="document-profile-ui-automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/project/selenium-latest-ui-automation/selenium-latest-ui-automation/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>

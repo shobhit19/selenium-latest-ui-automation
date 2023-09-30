@@ -1,0 +1,7 @@
+com\practice\tests\RegisterPageTests.class
+com\practice\tests\LoginPageTests.class
+com\practice\tests\HomePageTests.class
+com\practice\dataprovider\DataProviderExcel.class
+com\practice\runner\MainRunner.class
+com\practice\tests\BaseTest.class
+com\practice\dataprovider\DataProviderDependencyInjection.class
